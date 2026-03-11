@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Bremen, 2026
+  * Supervisor: Prof. Veronika Eyring
+  * Thesis: [Interpreting and improving the radiation parameterization for ICON with machine learning](https://doi.org/10.26092/elib/5535)
+* M.S. in Physics, RWTH Aachen University, 2021
+  * Supervisor: Prof. Martin Erdmann
+  * Thesis: [Autoencoder-extended Conditional Invertible Neural Networks for Unfolding of Radio Signals at the Pierre Auger Observatory](https://www.institut3a.physik.rwth-aachen.de/global/show_document.asp?id=aaaaaaaabiiadjg)
+* B.S. in Physics, RWTH Aachen University, 2019
+  * Supervisor: Prof. Martin Erdmann
+  * Thesis: [Refinement of Simulated Air Shower Detector Traces using Cycle-Consistent Adversarial Networks](https://www.institut3a.physik.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaiqjfjo)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since March 2026: Postdoctoral Researcher
+  * University of Lausanne
   
+* Feb 2022 - Feb 2026: Research Assistant
+  * University of Bremen
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Supervised Learning
+  * Generative Modelling
+  * explainable AI
+* Climate Modelling
+  * Atmosphere
+  * Radiation
+  * ICON
+* Programming
+  * Python 
+  * LaTeX
+  * Bash
+  * Fortran
+  * TypeScript/JavaScript
+* Languages
+  * German (native)
+  * English (fluent)
+  * French (basic)
+  * Russian (basic)
 
 Publications
 ======
@@ -61,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for JAMES
