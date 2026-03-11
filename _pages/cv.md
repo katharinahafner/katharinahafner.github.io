@@ -14,10 +14,10 @@ Education
 * Ph.D in Physics, University of Bremen, 2026
   * Supervisor: Prof. Veronika Eyring
   * Thesis: [Interpreting and improving the radiation parameterization for ICON with machine learning](https://doi.org/10.26092/elib/5535)
-* M.S. in Physics, RWTH Aachen University, 2021
+* M.Sc. in Physics, RWTH Aachen University, 2021
   * Supervisor: Prof. Martin Erdmann
   * Thesis: [Autoencoder-extended Conditional Invertible Neural Networks for Unfolding of Radio Signals at the Pierre Auger Observatory](https://www.institut3a.physik.rwth-aachen.de/global/show_document.asp?id=aaaaaaaabiiadjg)
-* B.S. in Physics, RWTH Aachen University, 2019
+* B.Sc. in Physics, RWTH Aachen University, 2019
   * Supervisor: Prof. Martin Erdmann
   * Thesis: [Refinement of Simulated Air Shower Detector Traces using Cycle-Consistent Adversarial Networks](https://www.institut3a.physik.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaiqjfjo)
 
