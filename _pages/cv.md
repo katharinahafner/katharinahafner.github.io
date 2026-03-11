@@ -49,7 +49,6 @@ Skills
   * German (native)
   * English (fluent)
   * French (basic)
-  * Russian (basic)
 
 Publications
 ======
@@ -72,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Reviewer for JAMES
+* Convener for Machine Learning for Climate Science at EGU General Assembly 2026

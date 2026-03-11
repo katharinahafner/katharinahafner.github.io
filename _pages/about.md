@@ -17,7 +17,7 @@ I received my Master of Science in Physics with a focus on particle physics at R
 
 I received my Bachelor of Science in Physics at RWTH Aachen University in 2019. For my thesis, I developed a method to refine simulated signal traces using CycleGANs.
 
-During my bachelor and master studies, I worked as a research assistant in the group of [Prof.Martin Erdmann](https://www.institut3a.physik.rwth-aachen.de/cms/institut3a/Das-Institut/Profil/~kdcq/Prof-Erdmann/), where I also worked on my theses. I had the opportunity to support the VISPA team and learn about high performance computing. Additionally, I worked on developing JupyterLab extensions and was responsible for a weather station and its website. I was always interested in Computer Science, which is why I enrolled in some additional classes to learn more about data structures and algorithms. 
+During my bachelor and master studies, I worked as a research assistant in the group of [Prof. Martin Erdmann](https://www.institut3a.physik.rwth-aachen.de/cms/institut3a/Das-Institut/Profil/~kdcq/Prof-Erdmann/), where I also worked on my theses. I had the opportunity to support the VISPA team and learn about high performance computing. Additionally, I worked on developing JupyterLab extensions and was responsible for a weather station and its website. I was always interested in Computer Science, which is why I enrolled in some additional classes to learn more about data structures and algorithms. 
 
 Outside of research, I like running, yoga, or being creative (sewing, crocheting, and other crafts). 
 
